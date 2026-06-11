@@ -1,6 +1,6 @@
 ## Project Artifacts
 
-* [Technical Report](./Documents/Technical Report.pdf)
+* [Technical_Report](./Documents/Technical_Report.pdf)
 * [Project Presentation](./Documents/Presentation.pdf)
 * notebook: [Netflix Recommender Notebook](./netflix_recommender.ipynb)
 
