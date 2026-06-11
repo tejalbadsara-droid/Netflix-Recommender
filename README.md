@@ -1,7 +1,7 @@
 ## Project Artifacts
 
-* [Technical Report](.\Documents\Technical Report.pdf)
-* [Project Presentation](.\Documents\Presentation.pdf)
+* [Technical Report](./Documents/Technical Report.pdf)
+* [Project Presentation](./Documents/Presentation.pdf)
 * notebook: [Netflix Recommender Notebook](./netflix_recommender.ipynb)
 
 
